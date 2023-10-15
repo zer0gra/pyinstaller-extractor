@@ -22,3 +22,5 @@ have fun
 [+] Possible entry point: test.pyc
 [+] Found 133 files in PYZ archive
 [+] Successfully extracted pyinstaller archive: dist\test.exe
+
+### please leave us a star i would appreciate it 
